@@ -4,6 +4,6 @@
 ゆめかわな名刺アプリ
 
 # 技術構成
-Express.js + ejs + MySQL
+Laravel + MySQL
 
 </div>
